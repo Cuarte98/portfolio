@@ -1,5 +1,12 @@
+@import 'bulma';
+
+html {
+  overflow: auto;
+  scroll-behavior: smooth;
+}
+
 .App {
-  text-align: center;
+  overflow-y: hidden;
 }
 
 .App-logo {
